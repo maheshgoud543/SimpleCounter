@@ -1,0 +1,33 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #F7D6E0;
+  font-size: 5rem;
+}
+.Container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+  gap: 3rem;
+}
+
+
+button{
+  font-size: inherit;
+  border-radius: 2rem;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.Decrement{
+
+  rotate: 180deg;
+ 
+}
+
+/* .decrement{
+  rotate: 30deg;
+} */
